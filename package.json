@@ -1,0 +1,13 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node hello.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
